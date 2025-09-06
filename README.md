@@ -1,10 +1,10 @@
-** # Home Assignment **
+# Home Assignment 
 ## Hobbies(ordered) 
-1. Coding\
-2. Singing\
-3. Playing throwball\
+1. Coding
+2. Singing
+3. Playing throwball
 ## skills (unordered) 
-- Problem solving\
-+ Self-motivated\
-* Time management\
-** _These are my hobbies and skills_ **
+- Problem solving
++ Self-motivated
+* Time management
+_These are my **hobbies** and **skills**_ 
