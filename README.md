@@ -1,1 +1,1 @@
-# PF-Lab03-25K3004
+I am a Software Engineering student at FAST University,NUCES. I like to learn about programming and wanting to explore different languages. I am excited to build codes and do problem solving. I want to become a full-stack web developer.  
