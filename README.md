@@ -1,1 +1,10 @@
-I am a Software Engineering student at FAST University,NUCES. I like to learn about programming and wanting to explore different languages. I am excited to build codes and do problem solving. I want to become a full-stack web developer.  
+** # Home Assignment **
+## Hobbies(ordered) 
+1. Coding\
+2. Singing\
+3. Playing throwball\
+## skills (unordered) 
+- Problem solving\
++ Self-motivated\
+* Time management\
+** _These are my hobbies and skills_ **
