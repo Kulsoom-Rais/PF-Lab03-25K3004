@@ -6,5 +6,5 @@
 ## skills (unordered) 
 - Problem solving
 + Self-motivated
-* Time management
+* Time management\
 _These are my **hobbies** and **skills**_ 
